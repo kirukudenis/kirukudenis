@@ -6,7 +6,7 @@
 
 <br>
 <br>
-I am Fullstack developer, My languages are mainly Python and Javascript. Currently, I am in QA Automation testing for mobile and web using python. I am very passionate about elegant code and beatiful user interfaces.
+I am Fullstack developer, I develop mainly Python and Javascript. Currently, I am in QA Automation testing for mobile and web using python. I am very passionate about elegant code and beatiful user interfaces.
 <br/>
 <br/>
 
