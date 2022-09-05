@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Denis!
 
-<a href='https://www.linkedin.com/in/deniskiruku/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='15px'/></a>
-<a href='https://twitter.com/simons22d/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='15px'  width="20px"/></a>
+<a href='https://www.linkedin.com/in/deniskiruku/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='20px'/></a>
+<a href='https://twitter.com/simons22d/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='20px'/></a>
 
 
 <br>
