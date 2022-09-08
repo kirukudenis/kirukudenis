@@ -16,8 +16,7 @@ I am Fullstack developer, I develop mainly Python and Javascript. Currently, I a
 ### More About Me:
 
 - &nbsp; I’m currently working on **scbnk**
-- &nbsp; Most of my projects are available on [Github](https://github.com/kirukudenis?tab=repositories)
-- &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kirukudenis/)
+- &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/deniskiruku/)
 - &nbsp; Ask me about anything tech related, I am happy to help;
 
 
