@@ -10,8 +10,6 @@ I am Fullstack developer, I develop mainly Python and Javascript. Currently, I a
 <br/>
 <br/>
 
-
-<img src="./assets/denis.gif" width="300px" align="right" alt="GIF"/>
   
 ### More About Me:
 
