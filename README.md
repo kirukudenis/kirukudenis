@@ -15,7 +15,7 @@ I am Fullstack developer, I develop mainly Python and Javascript. Currently, I a
 
 - &nbsp; I’m currently working on **scbnk**
 - &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/deniskiruku/)
-- &nbsp; Ask me about anything tech related, I am happy to help;
+- &nbsp; Ask me about anything tech related, I am happy to help
 
 
 <br>
@@ -23,6 +23,7 @@ I am Fullstack developer, I develop mainly Python and Javascript. Currently, I a
 ### Languages and Tools:
 - &nbsp; Javascript (NodeJS, ReactJS and Typescript)
 - &nbsp; Python (Django, Flask and FastAPI, Selinium and Appium)
+- &nbsp; Bash scripting
 - &nbsp; Golang
 
 <br>
