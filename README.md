@@ -13,7 +13,7 @@ I am Fullstack developer, I develop mainly Python and Javascript however i can w
   
 ### More About Me:
 
-- &nbsp; I’m currently working on **scbnk**
+- &nbsp; I’m currently working on **scbnk** - personal project
 - &nbsp; Long life learner
 - &nbsp; I am very passionate about elegant code and beatiful user interfaces.
 
