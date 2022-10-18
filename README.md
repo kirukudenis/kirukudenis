@@ -6,7 +6,7 @@
 
 <br>
 <br>
-I am Fullstack developer, I develop mainly Python and Javascript. Currently, I am in QA Automation testing for mobile and web using python. I am very passionate about elegant code and beatiful user interfaces.
+I am Fullstack developer, I develop mainly Python and Javascript however i can work with Java and Golang. Currently, I am in Automated testing for mobile and web using python.
 <br/>
 <br/>
 
@@ -14,8 +14,8 @@ I am Fullstack developer, I develop mainly Python and Javascript. Currently, I a
 ### More About Me:
 
 - &nbsp; I’m currently working on **scbnk**
-- &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/deniskiruku/)
-- &nbsp; Ask me about anything tech related, I am happy to help
+- &nbsp; Long life learner
+- &nbsp; I am very passionate about elegant code and beatiful user interfaces.
 
 
 <br>
