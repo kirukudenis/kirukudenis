@@ -25,7 +25,7 @@ I am Fullstack developer, I develop mainly Python and Javascript however i can w
 - &nbsp; Python (Django, Flask and FastAPI, Selinium and Appium)
 - &nbsp; Bash scripting
 - &nbsp; Golang
-- &nbsp; Java (Spring, Springboot)
+- &nbsp; Java (Springboot)
 
 <br>
 
