@@ -14,8 +14,7 @@ I am Fullstack developer, I develop mainly Python, Golang and Javascript.
 ### More About Me:
 
 - &nbsp; Long life learner
-- &nbsp; I am very passionate about elegant code and user interfaces.
-- 
+- &nbsp; Elegant code and user interfaces.
 <br>
 
 ### Languages and Tools:
