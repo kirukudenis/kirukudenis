@@ -6,25 +6,23 @@
 
 <br>
 <br>
-I am Fullstack developer, I develop mainly Python and Javascript however i can work with Java and Golang. Currently, I am in Automated testing for mobile and web using python.
+I am Fullstack developer, I develop mainly Python, Golang and Javascript.
 <br/>
 <br/>
 
   
 ### More About Me:
 
-- &nbsp; I’m currently working on **scbnk** - personal project
 - &nbsp; Long life learner
-- &nbsp; I am very passionate about elegant code and beatiful user interfaces.
-
-
+- &nbsp; I am very passionate about elegant code and user interfaces.
+- 
 <br>
 
 ### Languages and Tools:
 - &nbsp; Javascript (NodeJS, ReactJS and Typescript)
 - &nbsp; Python (Django, Flask and FastAPI, Selinium and Appium)
 - &nbsp; Bash scripting
-- &nbsp; Golang
+- &nbsp; Golang (Gin & Echo)
 - &nbsp; Java (Springboot)
 
 <br>
